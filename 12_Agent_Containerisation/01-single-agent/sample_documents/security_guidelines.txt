@@ -1,0 +1,28 @@
+Information Security Guidelines — Internal
+
+Passwords:
+- Minimum 12 characters, with a mix of upper case, lower case, digits, and symbols.
+- Passwords must be rotated every 90 days.
+- Reuse of the last 5 passwords is not allowed.
+- Never share your password over email, chat, or phone.
+
+Multi-Factor Authentication:
+- MFA is mandatory for all corporate accounts (email, VPN, source control, cloud
+  consoles).
+- Use the approved authenticator app. Do not rely on SMS-based MFA where an
+  authenticator app is available.
+
+Device Security:
+- Laptops must have full-disk encryption enabled.
+- Screens must auto-lock after 5 minutes of inactivity.
+- Do not install software from untrusted sources.
+
+Data Handling:
+- Classify data as Public, Internal, Confidential, or Restricted.
+- Restricted data (financial records, customer PII, source code of client systems)
+  must never be stored on personal devices or shared over personal accounts.
+
+Incident Reporting:
+- Report suspected phishing, malware, or data leaks to security@company.internal
+  within 1 hour of discovery.
+- Do not attempt to remediate suspected security incidents yourself.

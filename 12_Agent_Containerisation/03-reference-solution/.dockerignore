@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets — never bake credentials into the image
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Docker files themselves — no need to copy them into the image
+Dockerfile
+.dockerignore
+
+# Docs
+README.md

@@ -1,0 +1,28 @@
+Expense Reimbursement Policy — Internal
+
+Purpose: This policy describes how employees can claim reimbursement for business
+expenses incurred on behalf of the company.
+
+Eligible Expenses:
+- Client-site travel (flights, trains, cab/taxi fares)
+- Hotel accommodation during official travel
+- Meals during official travel, subject to per diem limits
+- Client entertainment with prior approval
+- Internet and mobile reimbursement for remote employees, up to INR 1,500 per month
+
+Per Diem Limits (within India):
+- Metro cities: INR 2,000 per day
+- Non-metro cities: INR 1,500 per day
+
+Submission Process:
+- All expense claims must be submitted through the finance portal within 30 days of
+  the expense being incurred.
+- Original receipts or scanned copies must be attached for every expense above INR 500.
+- Claims without supporting receipts will be rejected.
+
+Approval and Payment:
+- Claims are reviewed by the reporting manager within 3 working days.
+- Approved claims are reimbursed with the following month's salary cycle.
+
+Non-Reimbursable: Personal expenses, alcohol (unless pre-approved for client
+entertainment), and fines or penalties are not reimbursable under any circumstances.
